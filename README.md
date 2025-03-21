@@ -13,9 +13,9 @@
 
 </div>
 
-![Top Langs](github-readme-stats-alpha-two-43.vercel.app/api/top-langs/?username=idnasirasira)
+![Top Langs](https://github-readme-stats-alpha-two-43.vercel.app/api/top-langs/?username=idnasirasira&layout=compact&count_private=true)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=idnasirasira&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=idnasirasira&show_icons=true&count_private=true)
 
 
 **Languages and Tools:**
