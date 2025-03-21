@@ -13,7 +13,10 @@
 
 </div>
 
+![Top Langs](github-readme-stats-alpha-two-43.vercel.app/api/top-langs/?username=idnasirasira)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=idnasirasira&show_icons=true)
+
 
 **Languages and Tools:**
 
