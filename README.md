@@ -13,9 +13,13 @@
 
 </div>
 
-[![My Top Langs](https://github-readme-stats-idnasirasiras-projects.vercel.app/api/top-langs/?username=idnasirasira)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats-idnasirasiras-projects.vercel.app/api/top-langs/?username=idnasirasira&v=1)]
 
-![My GitHub stats](https://github-readme-stats-idnasirasiras-projects.vercel.app/api?username=idnasirasira&show_icons=true&theme=radical&include_all_commits=true)
+[![My Top Langs](https://github-readme-stats-idnasirasiras-projects.vercel.app/api/top-langs/?username=idnasirasira&v=1)]
+
+![My GitHub stats](https://github-readme-stats-idnasirasiras-projects.vercel.app/api?username=idnasirasira&show_icons=true&theme=radical&include_all_commits=true&v=1)
+
+![My GitHub stats](https://github-readme-stats-idnasirasiras-projects.vercel.app/api?username=idnasirasira&show_icons=true&theme=radical&include_all_commits=true&v=1)
 
 **Languages and Tools:**
 
