@@ -13,9 +13,9 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats-alpha-two-43.vercel.app/api/top-langs/?username=idnasirasira&layout=compact&count_private=true)
+[![Top Langs](https://github-readme-stats-alpha-two-43.vercel.app/api/top-langs/?username=idnasirasira)](https://github.com/anuraghazra/github-readme-stats)
 
-![github stats]([https://github-readme-stats.vercel.app/api?username=idnasirasira&show_icons=true&show_all_commits=true](https://github-readme-stats-alpha-two-43.vercel.app/api/?username=idnasirasira&include_all_commits=true))
+![Anurag's GitHub stats](https://github-readme-stats-alpha-two-43.vercel.app/api?username=idnasirasira&show_icons=true&theme=radical&include_all_commits=true)
 
 
 **Languages and Tools:**
