@@ -16,11 +16,13 @@ Currently, I’m building **[Praesepe.id](https://praesepe.id)**, focusing on it
 
 ## Technical Expertise
 
-- **Backend:** PHP, Node.js, Rust, Python
-- **Frontend:** React, Next.js, Vue.js, Livewire
-- **Frameworks:** Laravel, Express, Django, Flask, Actix, Rocket
-- **Databases:** MySQL, PostgreSQL, Redis
-- **Engineering:** REST APIs, Docker, Git, system design, performance optimization
+- **Languages:** PHP, Node.js, Python, Rust, JavaScript/TypeScript, SQL
+- **Frontend:** React, Next.js, Vue.js, Livewire, Tailwind CSS
+- **Backend:** Laravel, Express, Django, Flask, Actix, Rocket
+- **Data:** MySQL, PostgreSQL, Redis
+- **Cloud:** AWS (EC2, S3, RDS, CloudFront), GCP (Compute Engine, Cloud Storage, Cloud SQL)
+- **Infra:** Docker, Nginx, Linux, CI/CD
+- **Practices:** REST APIs, system design, performance optimization, Git
 
 ## Current Focus
 
