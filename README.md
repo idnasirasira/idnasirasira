@@ -1,43 +1,46 @@
-# Hi, I'm Aris Arisandi 👋
+# Hi, I’m Aris Arisandi 👋
 
-**Fullstack Developer** | **10+ Years of Professional Experience**  
-Currently building **[Praesepe.id](https://praesepe.id)**
+**Full-Stack Developer · Software Engineer · Technical Mentor**
 
-I build scalable web applications with a focus on clean architecture, performance, and real-world business impact.
+I’m a full-stack developer with over 10 years of professional experience building reliable, scalable, and maintainable web applications.
+
+Currently, I’m building **[Praesepe.id](https://praesepe.id)**, focusing on its product development, engineering foundation, and long-term scalability.
 
 ## About Me
 
-- 💼 10+ years of experience delivering software in professional environments
-- 💻 Specialized in end-to-end web development (backend, frontend, infrastructure)
-- ⚙️ Strong focus on maintainable systems, API design, and performance optimization
-- 🚀 Currently building and scaling **Praesepe.id**
-- 👨‍🏫 Also active as a private tutor and mentor for aspiring developers
+- Over 10 years of professional software development experience
+- Experienced across backend, frontend, databases, and infrastructure
+- Focused on clean architecture, API design, performance, and maintainability
+- Passionate about transforming business requirements into practical software
+- Active as a private tutor and mentor for aspiring developers
 
-## Tech Stack
+## Technical Expertise
 
 - **Backend:** PHP, Node.js, Rust, Python
 - **Frontend:** React, Next.js, Vue.js, Livewire
 - **Frameworks:** Laravel, Express, Django, Flask, Actix, Rocket
-- **Tools:** Git, Docker, REST APIs, Redis, MySQL/PostgreSQL
+- **Databases:** MySQL, PostgreSQL, Redis
+- **Engineering:** REST APIs, Docker, Git, system design, performance optimization
 
 ## Current Focus
 
-- Building product and engineering foundation at **Praesepe.id**
-- Developing reliable backend services and scalable architecture
-- Sharing knowledge through mentoring and technical education
+- Building and scaling **[Praesepe.id](https://praesepe.id)**
+- Designing reliable backend services and scalable architectures
+- Improving application performance and developer experience
+- Sharing practical software engineering knowledge through mentoring
 
-## GitHub Stats
+## GitHub Statistics
 
-![Aris's GitHub stats](https://github-readme-stats-idnasirasiras-projects.vercel.app/api?username=idnasirasira&show_icons=true&theme=radical)
+![Aris Arisandi's GitHub statistics](https://github-readme-stats-idnasirasiras-projects.vercel.app/api?username=idnasirasira&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-idnasirasiras-projects.vercel.app/api/top-langs/?username=idnasirasira&layout=compact&theme=radical)](https://github.com/idnasirasira)
+[![Most Used Languages](https://github-readme-stats-idnasirasiras-projects.vercel.app/api/top-langs/?username=idnasirasira&layout=compact&theme=radical)](https://github.com/idnasirasira)
 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/idnasirasira/)
-- [Twitter / X](https://twitter.com/idnasirasira)
+- [X / Twitter](https://twitter.com/idnasirasira)
 - [Instagram](https://www.instagram.com/idnasirasira/)
 
 ---
 
-Open for collaboration, consulting, and mentoring opportunities.
+I’m open to collaboration, consulting, and mentoring opportunities.
