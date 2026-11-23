@@ -1,48 +1,38 @@
 # Hi, I’m Aris Arisandi 👋
 
-**Full-Stack Developer · Software Engineer · Technical Mentor**
+**Software Engineer · Full-Stack Developer · Technical Mentor**
 
-I’m a full-stack developer with over 10 years of professional experience building reliable, scalable, and maintainable web applications.
+I build web applications, backend systems, and integrations that are meant to last—not just to launch. With 10+ years of experience shipping production software in Jakarta, I focus on clear architecture, practical trade-offs, and maintainable code.
 
-Currently, I’m building **[Praesepe.id](https://praesepe.id)**, focusing on its product development, engineering foundation, and long-term scalability.
+Currently building **[Praesepe.id](https://praesepe.id)**, a software studio and practical mentorship platform bridging real client work with developer growth.
 
-## About Me
+## What I Do
 
-- Over 10 years of professional software development experience
-- Experienced across backend, frontend, databases, and infrastructure
-- Focused on clean architecture, API design, performance, and maintainability
-- Passionate about transforming business requirements into practical software
-- Active as a private tutor and mentor for aspiring developers
+- Architect and build end-to-end web systems, APIs, and third-party integrations
+- Improve reliability, performance, and maintainability across growing codebases
+- Mentor developers through code reviews and real-world engineering workflows
+- Write practical notes on software engineering at **[idnasirasira.com](https://idnasirasira.com)**
 
 ## Technical Expertise
 
-- **Languages:** PHP, Node.js, Python, Rust, JavaScript/TypeScript, SQL
-- **Frontend:** React, Next.js, Vue.js, Livewire, Tailwind CSS
-- **Backend:** Laravel, Express, Django, Flask, Actix, Rocket
+- **Languages:** PHP, JavaScript / TypeScript, Python, Rust, SQL
+- **Frontend:** React, Next.js, Vue.js, Livewire, Alpine.js, Tailwind CSS
+- **Backend:** Laravel, Node.js, Express, Django, Flask, Axum, Actix, Rocket
 - **Data:** MySQL, PostgreSQL, Redis
-- **Cloud:** AWS (EC2, S3, RDS, CloudFront), GCP (Compute Engine, Cloud Storage, Cloud SQL)
-- **Infra:** Docker, Nginx, Linux, CI/CD
-- **Practices:** REST APIs, system design, performance optimization, Git
+- **Cloud & Infra:** AWS (EC2, S3, RDS, CloudFront), GCP (Compute Engine, Cloud Storage, Cloud SQL), Docker, Nginx, Linux, CI/CD
+- **Practices:** System design, REST APIs, performance optimization, Git
 
-## Current Focus
+## GitHub Activity
 
-- Building and scaling **[Praesepe.id](https://praesepe.id)**
-- Designing reliable backend services and scalable architectures
-- Improving application performance and developer experience
-- Sharing practical software engineering knowledge through mentoring
+<p>
+  <img height="150" alt="Aris Arisandi's GitHub statistics" src="https://github-readme-stats-idnasirasiras-projects.vercel.app/api?username=idnasirasira&show_icons=true&hide=stars,contribs&hide_rank=true&theme=transparent&hide_border=true" />
+  <img height="150" alt="Most used languages" src="https://github-readme-stats-idnasirasiras-projects.vercel.app/api/top-langs/?username=idnasirasira&layout=compact&exclude_repo=github-readme-stats&hide=html,css,scss,less&size_weight=0.5&count_weight=0.5&langs_count=6&theme=transparent&hide_border=true" />
+</p>
 
-## GitHub Statistics
+## Connect
 
-![Aris Arisandi's GitHub statistics](https://github-readme-stats-idnasirasiras-projects.vercel.app/api?username=idnasirasira&show_icons=true&theme=radical)
-
-[![Most Used Languages](https://github-readme-stats-idnasirasiras-projects.vercel.app/api/top-langs/?username=idnasirasira&layout=compact&theme=radical)](https://github.com/idnasirasira)
-
-## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/idnasirasira/)
-- [X / Twitter](https://twitter.com/idnasirasira)
-- [Instagram](https://www.instagram.com/idnasirasira/)
+[Website](https://idnasirasira.com) · [Email](mailto:hello@idnasirasira.com) · [LinkedIn](https://www.linkedin.com/in/idnasirasira/) · [X](https://x.com/idnasirasira) · [Instagram](https://www.instagram.com/idnasirasira/)
 
 ---
 
-I’m open to collaboration, consulting, and mentoring opportunities.
+Open to collaboration, technical consulting, and mentoring — reach out at [hello@idnasirasira.com](mailto:hello@idnasirasira.com).
